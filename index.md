@@ -1,1 +1,1 @@
-![Berkeley campus][berkeley_campus.png]
+![Berkeley campus](berkeley_campus.png)
