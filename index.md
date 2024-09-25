@@ -1,1 +1,1 @@
-![Berkeley Campus](/acheyette-berk.github.io/docs/assets/berkeley_campus.png)
+![Berkeley Campus](/docs/assets/berkeley_campus.png)
