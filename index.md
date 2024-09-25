@@ -1,1 +1,0 @@
-![Berkeley campus](berkeley_campus.png)
